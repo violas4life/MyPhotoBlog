@@ -1,0 +1,2 @@
+# MyPhotoBlog
+A photo blog
